@@ -4,7 +4,7 @@ Mastering Bitcoin Cash is a book for developers, although the first two chapters
 
 This repository is derived from the complete Mastering Bitcoin [first edition, second print](https://github.com/bitcoinbook/bitcoinbook/releases/tag/Edition1Print2), published in December 2014, and the complete [second edition, third print](https://github.com/bitcoinbook/bitcoinbook/releases/tag/second_edition_print3_rc1), published in March 2018, by Andreas M. Antonopoulos as published by O'Reilly Media in paperback and ebook formats.
 
-This revision is the work of gatmac and other supporting parties.  Andreas M. Antonopoulos and O'Reilly Media have neither supported nor endorsed this effort. I can be found on [Twitter](https://twitter.com/gatmac) or Telegram as gatmac on most of the BCH related groups, and on Session in the [Bitcoin Cash Tokyo](http://bitcoincash.tokyo/) meetup chats. No funding has been sought for this effort, in the form of Flipstarters or any other appeal, directly or indirectly. 
+This revision is the work of gatmac and supporting parties, and is neither supported nor endorsed by the original author and publisher. I can be found on [Twitter](https://twitter.com/gatmac) or Telegram as gatmac on most of the BCH related groups, and on Session in the [Bitcoin Cash Tokyo](http://bitcoincash.tokyo/) meetup chats. No funding has been sought for this effort, in the form of Flipstarters or any other appeal, directly or indirectly. 
 
 # Issues, Errors, Comments, Contributions
 
