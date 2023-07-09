@@ -18,9 +18,9 @@ This book makes references to Bitcoin, Bitcoin Cash, and Bitcoin Core. The term 
 
 ## Chapters
 
-+ Chapter 1: '[Introduction](https://github.com/gatmac/bchbook/blob/develop/ch01.asciidoc)' (Pending review)
-+ Chapter 2: '[How Bitcoin Cash Works](https://github.com/gatmac/bchbook/blob/develop/ch02.asciidoc)' (Pending)
-+ Chapter 3: '[Bitcoin Cash Core: The Reference Implementation](https://github.com/gatmac/bchbook/blob/develop/ch03.asciidoc)' (Pending)
++ Chapter 1: '[Introduction](https://github.com/gatmac/bchbook/blob/develop/ch01.asciidoc)' (Status: _Pending review_)
++ Chapter 2: '[How Bitcoin Cash Works](https://github.com/gatmac/bchbook/blob/develop/ch02.asciidoc)' (Status: _Pending review_)
++ Chapter 3: '[Bitcoin Cash Core: The Reference Implementation](https://github.com/gatmac/bchbook/blob/develop/ch03.asciidoc)' (Status: _In draft_)
 + Chapter 4: '[Keys, Addresses](https://github.com/gatmac/bchbook/blob/develop/ch04.asciidoc)' (Pending)
 + Chapter 5: '[Wallets](https://github.com/gatmac/bchbook/blob/develop/ch05.asciidoc)' (Pending)
 + Chapter 6: '[Transactions](https://github.com/gatmac/bchbook/blob/develop/ch06.asciidoc)' (Pending)
