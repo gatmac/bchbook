@@ -2,8 +2,8 @@ from bitcoin.rpc import RawProxy
 
 p = RawProxy()
 
-# Alice's transaction ID
-txid = "0627052b6f28912f2703066a912ea577f2ce4da4caa5a5fbd8a57286c345c2f2"
+# Aya's transaction ID
+txid = "d9de82eb8d5a325d84520b949cf55789a88066f355f1501bd0e6626549738f93"
 
 # First, retrieve the raw transaction in hex
 raw_tx = p.getrawtransaction(txid)
