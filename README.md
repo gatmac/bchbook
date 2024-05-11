@@ -14,7 +14,7 @@ If you know how to make a pull request to contribute a fix, please write the cor
 
 To read this book, see [book.asciidoc](https://github.com/gatmac/bchbook/blob/develop/book.asciidoc). Click on each of the chapters to read in your browser. Other parties may choose to release PDFs of the book online.
 
-This book makes references to Bitcoin, Bitcoin Cash, and Bitcoin Core. The term Bitcoin may refer to the system prior to the hard fork, or may refer to features or capabilities that are common to pre-fork Bitcoin and post-fork Bitcoin Cash and Bitcoin Core. Bitcoin Cash may refer to pre-fork Bitcoin, or to post-fork Bitcoin Cash in order to distinguish it from Bitcoin Core. 
+ This book makes references to bitcoin, Bitcoin Cash, and Bitcoin Core. The term bitcoin may refer to the system prior to the hard fork, or may refer to features or capabilities that are common to pre-fork Bitcoin and post-fork Bitcoin Cash and Bitcoin Core. Bitcoin Cash may refer to pre-fork bitcoin, or to post-fork Bitcoin Cash in order to distinguish it from Bitcoin Core. In accordance with OxFord dictionary guidelines, we refer to bitcoin in the lower in all situations except in the use of proper nouns.
 
 ## Chapters
 
